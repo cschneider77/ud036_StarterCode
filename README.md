@@ -1,6 +1,5 @@
 # Udacity Full-Stack Web Developer Nano-Degree Program
-## Project 01
-### Chris Schneider
+## Project 01 by Chris Schneider
 
 This is a simple program which generates a web page of six movie poster images with mouseover text
 synopses and link to youtube trailers on click. 
