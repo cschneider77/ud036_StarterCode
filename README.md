@@ -1,2 +1,5 @@
-# ud036_StarterCode
-Source code for a Movie Trailer website.
+# Project 01 
+## Udacity Full-Stack Web Developer Nano-Degree Program
+### Chris Schneider
+
+
