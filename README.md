@@ -9,6 +9,7 @@ synopses and link to youtube trailers on click.
 ### System Requirements
 
 -Python installed on your machine.  Python can be installed from https://www.python.org/download/
+
 -Pathing to the python directory in your shell.
 
 ### Installation
